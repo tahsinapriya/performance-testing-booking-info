@@ -1,4 +1,4 @@
-# performance-testing-booking-info
+# performance-testing-booking-info (Restful-booker)
 Performance Testing(Booking) :
 Welcome! This GitHub repository houses comprehensive performance testing documentation for restful-booker.herokuapp.com. It encompasses a variety of APIs employing different HTTP methods. Within this repository, we employ JMeter to execute performance tests aimed at ascertaining the API collection's ability to gracefully handle a high volume of concurrent threads (users) without encountering errors.
 Load Testing:
